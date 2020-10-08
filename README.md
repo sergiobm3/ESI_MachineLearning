@@ -1,6 +1,6 @@
 # ESI_MachineLearning
 Machine Learning Techniques, ESI.
-## Participantes
-- SERGIO BARRIOS MARTÍNEZ
-- SERGIO SEVILLA BALLESTEROS
-- JOSÉ ÁNGEL VILLAMOR CARRILLO
+## GROUP SSJ
+- Sergio Barrios Martínez
+- Sergio Sevilla Ballesteros
+- José Ángel Villamor Carrillo
